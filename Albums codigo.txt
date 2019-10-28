@@ -1,0 +1,170 @@
+<!-- ALBUMS -->
+			<div id="albums">
+				<div class="section-head text-center">
+					<h2>Our Albums</h2>
+					<h5>Create Beautiful Albums with the Awesome Musik theme</h5>
+				</div>
+
+				<div class="album-list-wrap ">
+					<!-- Album Item -->
+					<div class="col-md-3 col-sm-6 album-card-wrap nopadding">
+						<div class="album-card">
+							<div class="image hoverdir-target">
+								<img alt="image" src="images/album1.jpg">
+								<div class="overlay">
+									<div class="button-wrapper">
+										<div class="view-button">
+											<a class="link" href="single-album.html">
+												<span>
+													<strong class="bold">View</strong>
+													<br>Album</span>
+											</a>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+
+					<!-- Album Item -->
+					<div class="col-md-3 col-sm-6 album-card-wrap nopadding">
+						<div class="album-card">
+							<div class="image hoverdir-target">
+								<img alt="image" src="images/album2.jpg">
+								<div class="overlay">
+									<div class="button-wrapper">
+										<div class="view-button">
+											<a class="link" href="single-album.html">
+												<span>
+													<strong class="bold">View</strong>
+													<br>Album</span>
+											</a>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+
+					<!-- Album Item -->
+					<div class="col-md-3 col-sm-6 album-card-wrap nopadding">
+						<div class="album-card">
+							<div class="image hoverdir-target">
+								<img alt="image" src="images/album3.jpg">
+								<div class="overlay">
+									<div class="button-wrapper">
+										<div class="view-button">
+											<a class="link" href="single-album.html">
+												<span>
+													<strong class="bold">View</strong>
+													<br>Album</span>
+											</a>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+
+					<!-- Album Item -->
+					<div class="col-md-3 col-sm-6 album-card-wrap nopadding">
+						<div class="album-card">
+							<div class="image hoverdir-target">
+								<img alt="image" src="images/album4.jpg">
+								<div class="overlay">
+									<div class="button-wrapper">
+										<div class="view-button">
+											<a class="link" href="single-album.html">
+												<span>
+													<strong class="bold">View</strong>
+													<br>Album</span>
+											</a>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+
+					<!-- Album Item -->
+					<div class="col-md-3 col-sm-6 album-card-wrap nopadding">
+						<div class="album-card">
+							<div class="image hoverdir-target">
+								<img alt="image" src="images/album5.jpg">
+								<div class="overlay">
+									<div class="button-wrapper">
+										<div class="view-button">
+											<a class="link" href="single-album.html">
+												<span>
+													<strong class="bold">View</strong>
+													<br>Album</span>
+											</a>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+
+					<!-- Album Item -->
+					<div class="col-md-3 col-sm-6 album-card-wrap nopadding">
+						<div class="album-card">
+							<div class="image hoverdir-target">
+								<img alt="image" src="images/album6.jpg">
+								<div class="overlay">
+									<div class="button-wrapper">
+										<div class="view-button">
+											<a class="link" href="single-album.html">
+												<span>
+													<strong class="bold">View</strong>
+													<br>Album</span>
+											</a>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+
+					<!-- Album Item -->
+					<div class="col-md-3 col-sm-6 album-card-wrap nopadding">
+						<div class="album-card">
+							<div class="image hoverdir-target">
+								<img alt="image" src="images/album7.jpg">
+								<div class="overlay">
+									<div class="button-wrapper">
+										<div class="view-button">
+											<a class="link" href="single-album.html">
+												<span>
+													<strong class="bold">View</strong>
+													<br>Album</span>
+											</a>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+
+					<!-- Album Item -->
+					<div class="col-md-3 col-sm-6 album-card-wrap nopadding">
+						<div class="album-card">
+							<div class="image hoverdir-target">
+								<img alt="image" src="images/album8.jpg">
+								<div class="overlay">
+									<div class="button-wrapper">
+										<div class="view-button">
+											<a class="link" href="single-album.html">
+												<span>
+													<strong class="bold">View</strong>
+													<br>Album</span>
+											</a>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+			<!-- ALBUMS -->
